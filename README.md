@@ -3,8 +3,8 @@ My name is Tony, I'm a Research Software Engineer at [Ulster University, School 
 
 <a href="https://github.com/tonserrobo/tonserrobo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonserrobo/tonserrobo/main/dark_mode.svg">
-    <img alt="Tony Robinson's GitHub Profile README" src="https://raw.githubusercontent.com/tonserrobo/tonserrobo/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonserrobo/tonserrobo/master/dark_mode.svg">
+    <img alt="Tony Robinson's GitHub Profile README" src="https://raw.githubusercontent.com/tonserrobo/tonserrobo/master/light_mode.svg">
   </picture>
 </a>
 
