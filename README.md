@@ -1,6 +1,13 @@
 ## Hi there
 My name is Tony, I'm a Research Software Engineer at [Ulster University, School of Computing, Engineering and Intelligent Systems](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre). I am also a co-founder and chief technology officer of [TechEthics Limited](https://techethics.co.uk/), working on explainable AI and intelligent systems for post-conflict contexts. 
 
+<a href="https://github.com/tonserrobo/tonserrobo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonserrobo/tonserrobo/main/dark_mode.svg">
+    <img alt="Tony Robinson's GitHub Profile README" src="https://raw.githubusercontent.com/tonserrobo/tonserrobo/main/light_mode.svg">
+  </picture>
+</a>
+
 ## Languages I use often(*ish*)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
