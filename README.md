@@ -1,5 +1,5 @@
 ## Hi there
-My name is Tony, I'm a Research Software Engineer at [Ulster University, School of Computing, Engineering and Intelligent Systems](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre). I am also a co-founder and chief technology officer of [TechEthics Limited](https://techethics.co.uk/), working on explainable AI and intelligent systems for post-conflict contexts. 
+My name is Tony, I'm a Research Software Engineer at [Ulster University, School of Computing, Engineering and Intelligent Systems](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre). I am also a co-founder and chief technology officer of [TechEthics Limited](https://techethics.co.uk/), working on explainable AI and intelligent systems for post-conflict contexts. My research is largely focused on explainable AI, edge AI and accelerated computing. You can find some of my publications on [Orchid](https://orcid.org/0000-0003-0623-306X). 
 
 <a href="https://github.com/tonserrobo/tonserrobo">
   <picture>
@@ -8,7 +8,7 @@ My name is Tony, I'm a Research Software Engineer at [Ulster University, School 
   </picture>
 </a>
 
-## Tech I work with
+## Tech and Tools I work with often(*ish*)
 
 <table>
   <tr>
@@ -74,7 +74,5 @@ My name is Tony, I'm a Research Software Engineer at [Ulster University, School 
     </td>
   </tr>
 </table>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tonserrobo&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tonserrobo.tonserrobo)
