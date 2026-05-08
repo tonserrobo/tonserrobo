@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" viewBox="0 0 850 320" width="850px" height="320px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" viewBox="0 0 880 360" width="880px" height="360px" font-size="12px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -16,35 +16,35 @@ size-adjust: 109%;
 .dim {fill: #8b949e;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="850px" height="320px" fill="#161b22" rx="15"/>
-<text x="15" y="25" fill="#c9d1d9">tony@robinson<tspan class="cc"> -——————————————————————————————————————————————————————————————————————————————————————</tspan></text>
-<text x="15" y="50" fill="#c9d1d9">
-<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Windows, Linux</tspan>
-<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............ </tspan><tspan class="value" id="age_data">years, months, days</tspan>
-<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Ulster University, ISRC</tspan>
-<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">RSE @ Ulster, CTO @ TechEthics</tspan>
-<tspan x="15" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">VSCode, Zed</tspan>
-<tspan x="15" y="150" class="cc">. </tspan>
-<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Code</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
-<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, GraphQL, SQL</tspan>
-<tspan x="15" y="210" class="cc">. </tspan>
-<tspan x="15" y="230" class="dim">- Contact -—————————————————————————————————</tspan>
-<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">tonserrobo</tspan>
-<tspan x="15" y="270" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">techethics.co.uk</tspan>
+<rect width="880px" height="360px" fill="#161b22" rx="15"/>
+<text x="20" y="30" fill="#c9d1d9">tony@robinson<tspan class="cc"> -——————————————————————————————————————————————————————————————————————————————————————————————————————————————————</tspan></text>
+<text x="20" y="60" fill="#c9d1d9">
+<tspan x="20" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="20" y="82" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............. </tspan><tspan class="value" id="age_data">years, months, days</tspan>
+<tspan x="20" y="104" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Ulster University, ISRC</tspan>
+<tspan x="20" y="126" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">RSE @ Ulster, CTO @ TechEthics</tspan>
+<tspan x="20" y="148" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">VSCode, Zed</tspan>
+<tspan x="20" y="170" class="cc">. </tspan>
+<tspan x="20" y="192" class="cc">. </tspan><tspan class="key">Code</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
+<tspan x="20" y="214" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, GraphQL, SQL</tspan>
+<tspan x="20" y="236" class="cc">. </tspan>
+<tspan x="20" y="258" class="dim">- Contact -——————————————————————————————————————————————</tspan>
+<tspan x="20" y="280" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">tonserrobo</tspan>
+<tspan x="20" y="302" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">techethics.co.uk</tspan>
 </text>
-<text x="450" y="50" fill="#c9d1d9">
-<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">Account age</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="github_age">years, months, days</tspan>
-<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="450" y="90" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ............ </tspan><tspan class="value" id="repo_data">0</tspan>
-<tspan x="450" y="110" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="450" y="130" class="cc">. </tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="contrib_data">0</tspan>
-<tspan x="450" y="150" class="cc">. </tspan>
-<tspan x="450" y="170" class="cc">. </tspan><tspan class="key">Commits (total)</tspan>:<tspan class="cc" id="commit_data_dots"> .. </tspan><tspan class="value" id="commit_data">0</tspan>
-<tspan x="450" y="190" class="cc">. </tspan><tspan class="key">Commits (year)</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="year_commits">0</tspan>
-<tspan x="450" y="210" class="cc">. </tspan>
-<tspan x="450" y="230" class="dim">- Lines of Code -———————————————————————————</tspan>
-<tspan x="450" y="250" class="cc">. </tspan><tspan class="key">Total</tspan>:<tspan class="cc" id="loc_data_dots"> ............ </tspan><tspan class="value" id="loc_data">0</tspan>
-<tspan x="450" y="270" class="cc">. </tspan><tspan class="key">Added</tspan>:<tspan class="cc"> ............ </tspan><tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>
-<tspan x="450" y="290" class="cc">. </tspan><tspan class="key">Deleted</tspan>:<tspan class="cc" id="loc_del_dots"> .......... </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan>
+<text x="500" y="60" fill="#c9d1d9">
+<tspan x="500" y="60" class="cc">. </tspan><tspan class="key">Account age</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="github_age">years, months, days</tspan>
+<tspan x="500" y="82" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="500" y="104" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ............ </tspan><tspan class="value" id="repo_data">0</tspan>
+<tspan x="500" y="126" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="500" y="148" class="cc">. </tspan><tspan class="key">Contributed</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="contrib_data">0</tspan>
+<tspan x="500" y="170" class="cc">. </tspan>
+<tspan x="500" y="192" class="cc">. </tspan><tspan class="key">Commits (total)</tspan>:<tspan class="cc" id="commit_data_dots"> .. </tspan><tspan class="value" id="commit_data">0</tspan>
+<tspan x="500" y="214" class="cc">. </tspan><tspan class="key">Commits (year)</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="year_commits">0</tspan>
+<tspan x="500" y="236" class="cc">. </tspan>
+<tspan x="500" y="258" class="dim">- Lines of Code -——————————————————————————————————</tspan>
+<tspan x="500" y="280" class="cc">. </tspan><tspan class="key">Total</tspan>:<tspan class="cc" id="loc_data_dots"> ............ </tspan><tspan class="value" id="loc_data">0</tspan>
+<tspan x="500" y="302" class="cc">. </tspan><tspan class="key">Added</tspan>:<tspan class="cc"> ............ </tspan><tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>
+<tspan x="500" y="324" class="cc">. </tspan><tspan class="key">Deleted</tspan>:<tspan class="cc" id="loc_del_dots"> .......... </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan>
 </text>
 </svg>
